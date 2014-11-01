@@ -1,0 +1,6 @@
+
+from collections import Counter
+x = 12245
+print Counter(str(x))
+print Counter(str(14252))
+
